@@ -2,7 +2,7 @@ from machine import Pin, UART
 from time import sleep
 import itertools
 from heapq import heappush, heappop
-import network, socket, machine, time
+import network, socket, machine, time 
 
 #--------------------------------------------------------------------------------------------------------
 
