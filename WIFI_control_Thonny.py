@@ -100,7 +100,7 @@ adj_list = {
     B: [Edge(0.1, A), Edge(0.1, C)],
     C: [Edge(0.1, B), Edge(0.1, D)],
     D: [Edge(0.1, C), Edge(0.2, E)],
-    E: [Edge(0.2, D), Edge(0.5, F), Edge(0.16671, H)],
+    E: [Edge(0.2, D), Edge(0.5, F), Edge(0.16671, H)], 
     F: [Edge(0.5, E), Edge(0.1667, I)],
     G: [Edge(0.25, A), Edge(0.501, J), Edge(0.5, L)],
     H: [Edge(0.16671, E), Edge(0.501, I), Edge(0.0833, J)],
